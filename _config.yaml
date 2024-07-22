@@ -15,7 +15,6 @@ theme: jekyll-theme-midnight
 #theme: jekyll-theme-modernist
 #theme: jekyll-theme-primer
 
-title: My GitHub Page
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my GitHub Pages site.
 baseurl: "" # the subpath of your site, e.g. /blog
