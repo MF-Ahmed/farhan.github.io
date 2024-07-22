@@ -8,5 +8,5 @@ Robotics Expert @ ABB
 - big impact project 2
 - big impact project 3
 #### Projects 
-Fuel level monitor 
+Search and rescue robot
 
