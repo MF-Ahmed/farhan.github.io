@@ -1,12 +1,12 @@
 title: Muhammad Farhan Ahmed
 logo: /assets/img/my-pic-infromal.jpg
 #description: text below image
-#show_downloads: true
-#theme: jekyll-theme-minimal
+show_downloads: true
+theme: jekyll-theme-minimal
 #theme: jekyll-theme-cayman
 
 
-theme: jekyll-theme-midnight
+#theme: jekyll-theme-midnight
 #theme: jekyll-theme-hacker
 #theme: jekyll-theme-leap-day
 #theme: jekyll-theme-merlot
