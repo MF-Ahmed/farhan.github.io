@@ -1,4 +1,4 @@
-# Robotics Enginner 
+# Robotics Engineer
 ## Education 
 Robotics Ph.D
 
