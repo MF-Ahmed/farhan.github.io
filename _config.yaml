@@ -8,10 +8,10 @@ logo: /assets/img/my-pic-infromal.jpg
 
 #theme: jekyll-theme-slate
 #theme: jekyll-theme-midnight
-theme: jekyll-theme-architect
+#theme: jekyll-theme-architect
 #theme: jekyll-theme-hacker
 #theme: jekyll-theme-leap-day
 #theme: jekyll-theme-merlot
 #theme: jekyll-theme-modernist
-#theme: jekyll-theme-primer
+theme: jekyll-theme-primer
 
