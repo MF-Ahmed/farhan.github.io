@@ -1,6 +1,6 @@
-# Data Scientist
+# Robotics and Automation Engineer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, C/C++, MATLAB, ROS
 
 ## Education
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
