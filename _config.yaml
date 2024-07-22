@@ -16,14 +16,14 @@ theme: jekyll-theme-midnight
 #theme: jekyll-theme-primer
 
 # Social media usernames
-twitter_username: username
-github_username: username
-linkedin_username: your-linkedin-username
-google_scholar_url: "https://scholar.google.com/citations?user=your-google-scholar-id"
+#twitter_username: username
+#github_username: username
+#linkedin_username: your-linkedin-username
+#google_scholar_url: "https://scholar.google.com/citations?user=your-google-scholar-id"
 
 # Additional configuration options
-social:
-  twitter: "https://twitter.com/username"
-  github: "https://github.com/username"
-  linkedin: "https://www.linkedin.com/in/your-linkedin-username"
-  google_scholar: "https://scholar.google.com/citations?user=your-google-scholar-id"
+#social:
+  #twitter: "https://twitter.com/username"
+  #github: "https://github.com/username"
+  #linkedin: "https://www.linkedin.com/in/your-linkedin-username"
+  #google_scholar: "https://scholar.google.com/citations?user=your-google-scholar-id"
