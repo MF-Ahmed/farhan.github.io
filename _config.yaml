@@ -2,5 +2,34 @@ title: Muhammad Farhan Ahmed
 logo: /assets/img/my-pic-infromal.jpg
 #description: text below image
 #show_downloads: true
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
 #theme: jekyll-theme-cayman
+
+
+theme: jekyll-theme-slate
+#theme: jekyll-theme-midnight
+#theme: jekyll-theme-architect
+#theme: jekyll-theme-hacker
+#theme: jekyll-theme-leap-day
+#theme: jekyll-theme-merlot
+#theme: jekyll-theme-modernist
+#theme: jekyll-theme-primer
+
+title: My GitHub Page
+description: >- # this means to ignore newlines until "baseurl:"
+  Welcome to my GitHub Pages site.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://username.github.io" # the base hostname & protocol for your site
+
+# Social media usernames
+twitter_username: username
+github_username: username
+linkedin_username: your-linkedin-username
+google_scholar_url: "https://scholar.google.com/citations?user=your-google-scholar-id"
+
+# Additional configuration options
+social:
+  twitter: "https://twitter.com/username"
+  github: "https://github.com/username"
+  linkedin: "https://www.linkedin.com/in/your-linkedin-username"
+  google_scholar: "https://scholar.google.com/citations?user=your-google-scholar-id"
