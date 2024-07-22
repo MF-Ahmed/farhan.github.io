@@ -22,8 +22,8 @@ twitter_username: username
 #google_scholar_url: "https://scholar.google.com/citations?user=your-google-scholar-id"
 
 # Additional configuration options
-#social:
-  #twitter: "https://twitter.com/username"
+social:
+  twitter: "https://twitter.com/username"
   #github: "https://github.com/username"
   #linkedin: "https://www.linkedin.com/in/your-linkedin-username"
   #google_scholar: "https://scholar.google.com/citations?user=your-google-scholar-id"
